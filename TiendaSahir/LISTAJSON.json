@@ -1,0 +1,21 @@
+[ {
+  "id" : "1",
+  "nombre" : "Juan",
+  "miLista" : {
+    "listaElementos" : [ {
+      "id" : "1",
+      "prenda" : "Polo",
+      "talla" : "M",
+      "fecha" : [ 2025, 5, 27 ],
+      "precio" : 30.0,
+      "miFecha" : [ 2025, 5, 27 ]
+    }, {
+      "id" : "1",
+      "prenda" : "Polo",
+      "talla" : "M",
+      "fecha" : [ 2025, 5, 27 ],
+      "precio" : 30.0,
+      "miFecha" : [ 2025, 5, 27 ]
+    } ]
+  }
+} ]
